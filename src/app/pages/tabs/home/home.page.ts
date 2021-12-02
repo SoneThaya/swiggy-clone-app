@@ -23,46 +23,46 @@ export class HomePage implements OnInit {
       ];
       this.restaurants = [
         {
-          uid: '1231wasdafsd',
-          cover: "assets/imgs/1.jpg",
-          name: "Stayfit",
-          short_name: "stayfit",
+          uid: '12wefdss',
+          cover: 'assets/imgs/1.jpg',
+          name: 'Stayfit',
+          short_name: 'stayfit',
           cuisines: [
             'Italian',
             'Mexican'
           ],
           rating: 5,
           delivery_time: 25,
-          distance: 2.59,
-          price: 10,
+          distance: 2.5,
+          price: 100
         },
         {
-          uid: '345345sd',
-          cover: "assets/imgs/2.jpg",
-          name: "Stayfit2",
-          short_name: "stayfit2",
+          uid: '12wefdefsdss',
+          cover: 'assets/imgs/2.jpg',
+          name: 'Stayfit1',
+          short_name: 'stayfit1',
           cuisines: [
             'Italian',
             'Mexican'
           ],
           rating: 5,
           delivery_time: 25,
-          distance: 2.59,
-          price: 10,
+          distance: 2.5,
+          price: 100
         },
         {
-          uid: '879sdgfd',
-          cover: "assets/imgs/3.jpg",
-          name: "Stayfit3",
-          short_name: "stayfit3",
+          uid: '12wefdssrete',
+          cover: 'assets/imgs/3.jpg',
+          name: 'Stayfit2',
+          short_name: 'stayfit2',
           cuisines: [
             'Italian',
             'Mexican'
           ],
           rating: 5,
           delivery_time: 25,
-          distance: 2.59,
-          price: 10,
+          distance: 2.5,
+          price: 100
         },
       ];
       this.isLoading = false;
